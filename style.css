@@ -48,6 +48,7 @@ li {
 li a {
     list-style: none;
     text-decoration: none;
+    font-family: "Poppins";
     font-weight: 600;
     color: black;
 }
